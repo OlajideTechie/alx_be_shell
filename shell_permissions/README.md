@@ -1,2 +1,6 @@
-#!/bin/bash — This is the shebang that specifies the script should be executed with the Bash shell.
-su betty — This switches the current user to betty
+# Project Scripts
+
+## 0-iam_betty
+
+This script switches the current user to `betty`. It uses the `su` command and assumes that the user `betty` exists on the system. 
+
